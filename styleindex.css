@@ -1,0 +1,323 @@
+body {
+	margin: 0;
+	padding: 0;
+	font-family: 'quicksand';
+	line-height: 1.5em;
+    background:#f0b906;
+}
+
+h1 {
+	font-size: 1em;
+	line-height: 1.3em;
+	text-align: left;
+    font-family: 'quicksand';
+	font-weight:200;
+    text-align: center;
+}
+h2 {
+    font-family: 'quicksand';
+    font-size: x-small;
+}
+
+p {
+    text-align: center;
+	margin: 1em 1em 1.5em 1em;
+}
+ article {
+    background: #2C3333;
+ }
+img {
+	max-width: 100%;
+	height: auto;
+}
+
+footer{
+    background:#fafffe}
+
+#logo-header {
+    width: 120px;
+    margin-bottom: 0%;
+}
+#logo-marca{
+    margin-left: 26%;
+    width: 300px;
+
+}
+#facebook-top {
+width: 50px;
+padding: 1px;
+margin: 20px;
+margin-bottom: 0%;
+margin-right: 12%;
+float: right;
+}
+
+#instagram-top {
+    width: 50px;;
+    padding: 1px; 
+    margin: 20px;
+    margin-bottom: 0%;
+    margin-right: 2%;
+  float: right;
+  opacity: 90%;
+    }
+#login-top {
+    float: right;
+    background-color: #A8E6CF;
+    font-family: 'Quicksand', sans-serif;
+    font-weight: bold;
+    letter-spacing: 2px;
+    color: aliceblue;
+    border-color: white;
+    border-radius: 10%;
+    border-style:hidden;
+    padding: 10px;
+    padding-top: 11px;
+    margin: 10px;
+    margin-bottom: 0%;
+    position: absolute;
+    top: 10px;
+    left: 90%;
+}
+
+.carousel-inner {
+width: inherit;
+height: 200;
+}
+.carousel-inner img {
+    width:70%;
+    max-height: 70%;
+}
+
+.carousel-inner {
+height: 500px;
+position:absolute;
+top: 50px
+}
+ aside {
+    float: right;
+    width: 40%;
+    height: 10%;
+background-color: #2C3333;
+color: #E7F6F2;
+font-family: "Quicksand";
+font-weight: 400;
+padding-top: 4.5%;
+padding-bottom: 0.77%;
+padding-left: 2%;
+padding-right: 2%;
+box-shadow: 10px 5px 5px rgb(214, 213, 213);
+text-align: justify;
+}
+#acercademip {
+    text-align: justify;
+}
+#presentacion {
+    background-color:#fa0e49;
+    color: #f0eabe; 
+    width:60%;
+    height: 10%;
+}
+.romi {
+    float: left;
+    border-radius: 60%;
+    width: 100px;
+    margin-left: 60px;
+    margin-top: 20px;
+
+}
+.soyromi
+{
+   padding-top: 5px;
+   padding: 25px;
+    text-align: justify;
+margin-top: 40px;
+    color: #fffdec;
+    font-family: "Quicksand";
+    font-weight: bold;
+    font-weight: 900;
+}
+.soyromip {
+
+padding-top: 5px;
+    padding: 20px;
+    margin-left: 120px;
+    margin-top: 15px;
+    font-family: 'Quicksand';
+    font-size:large;
+    font-weight: bold;
+    color: #F6F6F6;
+    text-align: justify;
+}
+#article-experiencia {
+    background-color: #2C3333;
+    color:#ffffff;
+    font-family: 'Quicksand';
+    font-weight: 500;
+    margin-top: 3%;
+}
+.logos {
+    display:block;
+    margin:auto;
+    height: 60px;
+    width: auto;
+}
+.icono {
+    height: 70px;
+    width: 70px;
+margin-left: 45%;
+}
+.experiencia {
+float: left;
+width: 45%;
+align-items: center;
+margin-top: 1%;}
+
+#gobierno {
+    float: left;
+    width: 250px;
+    height: 350px;
+    color:#d5d8da;
+    
+}
+
+    #sch-section {
+        float: left;
+        width: 250px;
+        height: 350px;
+    color:#d5d8da;
+margin-left: 15%;}
+
+#sch {
+width: 80px;
+height: auto;
+display:block;
+margin:auto;
+}
+#educacion {
+    float: left;
+    width: 45%;
+}
+.logo-uni {
+    display:block;
+    margin:auto;
+    height: auto;
+    width: 100px ;  
+}
+.logo-ifd {
+    display:block;
+    margin:auto;
+    height: auto;
+    width: 120px ;  
+}
+
+.subtitulo {
+    color: #f0b906;
+    text-align: left;
+    margin-left: 15px;
+}
+.subtitulotipo1 {
+    color: #f0b906;
+    text-align: center;
+    margin-left: 15px;
+}
+.ch2 { 
+    text-align: center;
+    padding: 10px;
+}
+
+ #unlpam {
+    float: left;
+    width: 300px;
+    height: 350px;
+    color:#d5d8da;
+}
+  #ifd {
+    float: right;
+    width: 300px;
+    height: 350px;
+color:#d5d8da;}
+
+ #hardandsoft{
+   clear: both;
+ }
+ .progress{
+    width: 40%;
+    border-radius: 20%;
+ }
+ #hard {
+    padding-left: 2%;
+    float: left;
+    width: 50%;
+    height: 250px;
+ }
+ #soft {
+    float: left;
+    width: 50%;
+    height: 250px;
+ }
+#proyecto {
+    background-color: #2C3333;
+    width: 100%;
+}
+ #argentinaprograma{
+    float: left;
+    width: 33%;
+    height: 450px;
+    padding: 5%;
+
+    background-color: #2C3333;
+ }
+ #pilquen {
+    float: left;
+    width: 33%;
+    height: 450px;
+    padding: 5%;
+
+background-color: #2C3333;
+color:#d5d8da
+ }
+ #incitap {
+    float: left;
+    width: 34%;
+    height: 450px;
+    padding: 5%;
+   background-color: #2C3333;
+   color: #d5d8da;
+ }
+ #charlemos{
+    clear:left;
+width: 100%;
+height: 300px;
+background-color:#f0b906; 
+color:#fa0e49;
+text-align: center;
+border-color: #fafdfc;
+
+}
+.submit {
+    background-color:#fa0e49;
+    font-family: 'Quicksand', sans-serif;
+    font-weight: bold;
+    letter-spacing: 2px;
+    color: aliceblue;
+    border-color: white;
+    border-radius: 10%;
+    border-style:hidden;
+    padding: 10px;
+}
+#mainfooter {
+box-shadow: #395B64;
+}
+#facebook-foot {
+width: 30px;
+float: left;
+margin-left: 46%;
+}
+    
+    #instagram-foot {
+        width: 30px;;
+       float: left;
+       margin-left: 4%;
+      opacity: 90%;}
+  
